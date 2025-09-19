@@ -1,0 +1,3 @@
+[submodule "stm32-ds18b20"]
+	path = stm32-ds18b20
+	url = https://github.com/astarus-pyxis/stm32-ds18b20.git
