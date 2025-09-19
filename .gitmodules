@@ -13,3 +13,6 @@
 [submodule "stm32-lsm6dsl"]
 	path = stm32-lsm6dsl
 	url = https://github.com/astarus-pyxis/stm32-lsm6dsl.git
+[submodule "stm32-common"]
+	path = stm32-common
+	url = https://github.com/astarus-pyxis/stm32-common.git
