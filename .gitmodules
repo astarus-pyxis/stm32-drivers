@@ -1,3 +1,15 @@
 [submodule "stm32-ds18b20"]
 	path = stm32-ds18b20
 	url = https://github.com/astarus-pyxis/stm32-ds18b20.git
+[submodule "stm32-mpr"]
+	path = stm32-mpr
+	url = https://github.com/astarus-pyxis/stm32-mpr.git
+[submodule "stm32-sch16t"]
+	path = stm32-sch16t
+	url = https://github.com/astarus-pyxis/stm32-sch16t.git
+[submodule "stm32-lsm303agr"]
+	path = stm32-lsm303agr
+	url = https://github.com/astarus-pyxis/stm32-lsm303agr.git
+[submodule "stm32-lsm6dsl"]
+	path = stm32-lsm6dsl
+	url = https://github.com/astarus-pyxis/stm32-lsm6dsl.git
